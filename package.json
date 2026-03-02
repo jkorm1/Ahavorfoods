@@ -1,8 +1,8 @@
 {
-    "private": true,
+     "private": true,
     "type": "module",
-     "scripts": {
-        "build": "vite build && cp public/build/* public/"
+    "scripts": {
+        "build": "vite build"
     },
     "devDependencies": {
         "@tailwindcss/vite": "^4.0.0",
